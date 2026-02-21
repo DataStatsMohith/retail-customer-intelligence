@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/mohit/Downloads/Boots_Project2/mlruns/458231716719680444/d96d8323a29944b593b12bcb9bf719c0/artifacts
+end_time: 1771539666154
+entry_point_name: ''
+experiment_id: '458231716719680444'
+lifecycle_stage: active
+run_id: d96d8323a29944b593b12bcb9bf719c0
+run_name: recommender_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771539665891
+status: 3
+tags: []
+user_id: mohit
