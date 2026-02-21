@@ -1,0 +1,46 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# MLflow runs
+mlruns/
+mlartifacts/
+
+# Model registry
+mlops/model_registry/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reports figures
+reports/figures/*.png
+
+# Pytest cache
+.pytest_cache/
+
+# Distribution
+dist/
+build/
+*.egg-info/

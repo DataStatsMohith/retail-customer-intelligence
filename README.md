@@ -187,7 +187,7 @@ Three-tier approach designed for different customer scenarios:
 
 ```bash
 # 1. Clone and set up environment
-git clone https://github.com/YOUR_USERNAME/retail-customer-intelligence
+git clone https://github.com/DataStatsMohith/retail-customer-intelligence
 cd retail-customer-intelligence
 
 python -m venv venv
@@ -281,7 +281,7 @@ Built as part of a data science portfolio to demonstrate end-to-end ML skills re
 
 **MSc Data Science** | Loughborough University
 
-*Related project → [Multi-Store Retail Demand Forecasting](https://github.com/YOUR_USERNAME/retail-demand-forecasting)*
+*Related project → [Multi-Store Retail Demand Forecasting](https://github.com/DataStatsMohith/retail-demand-forecasting)*
 
 ---
 

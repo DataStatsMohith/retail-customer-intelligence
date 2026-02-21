@@ -1,201 +1,92 @@
 product_id,product_name,category,price
-P0000,Product_0,Electrical,6.21
-P0001,Product_1,Pharmacy,3.34
-P0002,Product_2,Fragrance,9.32
-P0003,Product_3,Electrical,4.96
-P0004,Product_4,Vitamins,8.46
-P0005,Product_5,Fragrance,27.78
-P0006,Product_6,Fragrance,6.7
-P0007,Product_7,Electrical,3.56
-P0008,Product_8,Haircare,7.29
-P0009,Product_9,Vitamins,30.48
-P0010,Product_10,Electrical,5.81
-P0011,Product_11,Vitamins,14.52
-P0012,Product_12,Vitamins,2.01
-P0013,Product_13,Fragrance,7.22
-P0014,Product_14,Pharmacy,6.36
-P0015,Product_15,Vitamins,4.16
-P0016,Product_16,Baby,11.17
-P0017,Product_17,Fragrance,9.96
-P0018,Product_18,Haircare,16.15
-P0019,Product_19,Pharmacy,5.77
-P0020,Product_20,Baby,5.36
-P0021,Product_21,Baby,4.21
-P0022,Product_22,Haircare,4.96
-P0023,Product_23,Pharmacy,11.8
-P0024,Product_24,Fragrance,8.21
-P0025,Product_25,Skincare,2.81
-P0026,Product_26,Pharmacy,5.51
-P0027,Product_27,Haircare,5.4
-P0028,Product_28,Baby,16.3
-P0029,Product_29,Fragrance,16.95
-P0030,Product_30,Pharmacy,3.92
-P0031,Product_31,Skincare,75.11
-P0032,Product_32,Skincare,5.72
-P0033,Product_33,Vitamins,47.07
-P0034,Product_34,Vitamins,8.35
-P0035,Product_35,Electrical,2.4
-P0036,Product_36,Haircare,7.08
-P0037,Product_37,Pharmacy,14.07
-P0038,Product_38,Pharmacy,15.7
-P0039,Product_39,Electrical,11.08
-P0040,Product_40,Baby,9.13
-P0041,Product_41,Baby,11.66
-P0042,Product_42,Electrical,12.78
-P0043,Product_43,Baby,3.01
-P0044,Product_44,Vitamins,7.54
-P0045,Product_45,Pharmacy,5.33
-P0046,Product_46,Electrical,21.5
-P0047,Product_47,Pharmacy,9.63
-P0048,Product_48,Skincare,51.2
-P0049,Product_49,Vitamins,8.11
-P0050,Product_50,Fragrance,22.34
-P0051,Product_51,Vitamins,21.21
-P0052,Product_52,Electrical,3.96
-P0053,Product_53,Fragrance,10.52
-P0054,Product_54,Skincare,16.28
-P0055,Product_55,Electrical,25.45
-P0056,Product_56,Haircare,6.73
-P0057,Product_57,Pharmacy,4.99
-P0058,Product_58,Skincare,16.9
-P0059,Product_59,Pharmacy,21.9
-P0060,Product_60,Baby,7.14
-P0061,Product_61,Haircare,3.21
-P0062,Product_62,Haircare,35.87
-P0063,Product_63,Skincare,8.08
-P0064,Product_64,Haircare,10.75
-P0065,Product_65,Fragrance,23.82
-P0066,Product_66,Haircare,15.51
-P0067,Product_67,Pharmacy,17.95
-P0068,Product_68,Pharmacy,4.81
-P0069,Product_69,Electrical,11.36
-P0070,Product_70,Pharmacy,16.28
-P0071,Product_71,Electrical,5.11
-P0072,Product_72,Pharmacy,4.31
-P0073,Product_73,Fragrance,50.32
-P0074,Product_74,Electrical,10.72
-P0075,Product_75,Vitamins,5.63
-P0076,Product_76,Baby,69.04
-P0077,Product_77,Skincare,42.37
-P0078,Product_78,Pharmacy,11.81
-P0079,Product_79,Haircare,27.71
-P0080,Product_80,Pharmacy,4.51
-P0081,Product_81,Haircare,5.92
-P0082,Product_82,Baby,16.46
-P0083,Product_83,Baby,24.5
-P0084,Product_84,Baby,25.28
-P0085,Product_85,Haircare,8.22
-P0086,Product_86,Pharmacy,28.25
-P0087,Product_87,Baby,24.84
-P0088,Product_88,Fragrance,34.92
-P0089,Product_89,Electrical,20.46
-P0090,Product_90,Haircare,15.27
-P0091,Product_91,Haircare,12.43
-P0092,Product_92,Pharmacy,7.59
-P0093,Product_93,Haircare,35.79
-P0094,Product_94,Haircare,45.64
-P0095,Product_95,Baby,6.01
-P0096,Product_96,Pharmacy,6.37
-P0097,Product_97,Baby,9.98
-P0098,Product_98,Electrical,9.14
-P0099,Product_99,Electrical,64.34
-P0100,Product_100,Baby,4.32
-P0101,Product_101,Electrical,2.22
-P0102,Product_102,Pharmacy,10.17
-P0103,Product_103,Skincare,4.36
-P0104,Product_104,Baby,7.48
-P0105,Product_105,Fragrance,18.36
-P0106,Product_106,Fragrance,17.32
-P0107,Product_107,Haircare,6.42
-P0108,Product_108,Electrical,11.38
-P0109,Product_109,Fragrance,10.53
-P0110,Product_110,Haircare,14.14
-P0111,Product_111,Skincare,5.46
-P0112,Product_112,Pharmacy,12.7
-P0113,Product_113,Pharmacy,48.3
-P0114,Product_114,Pharmacy,10.0
-P0115,Product_115,Fragrance,30.39
-P0116,Product_116,Skincare,8.84
-P0117,Product_117,Fragrance,7.17
-P0118,Product_118,Electrical,14.43
-P0119,Product_119,Fragrance,15.26
-P0120,Product_120,Skincare,25.96
-P0121,Product_121,Skincare,5.14
-P0122,Product_122,Electrical,10.3
-P0123,Product_123,Skincare,12.18
-P0124,Product_124,Skincare,19.56
-P0125,Product_125,Pharmacy,2.53
-P0126,Product_126,Electrical,64.55
-P0127,Product_127,Vitamins,9.62
-P0128,Product_128,Vitamins,5.93
-P0129,Product_129,Skincare,27.8
-P0130,Product_130,Vitamins,18.53
-P0131,Product_131,Vitamins,38.71
-P0132,Product_132,Skincare,6.82
-P0133,Product_133,Vitamins,11.66
-P0134,Product_134,Fragrance,12.19
-P0135,Product_135,Haircare,49.14
-P0136,Product_136,Electrical,2.94
-P0137,Product_137,Haircare,6.38
-P0138,Product_138,Skincare,4.54
-P0139,Product_139,Pharmacy,5.75
-P0140,Product_140,Electrical,9.97
-P0141,Product_141,Skincare,7.6
-P0142,Product_142,Pharmacy,8.02
-P0143,Product_143,Haircare,24.31
-P0144,Product_144,Skincare,33.91
-P0145,Product_145,Electrical,2.88
-P0146,Product_146,Electrical,4.81
-P0147,Product_147,Baby,15.35
-P0148,Product_148,Fragrance,7.33
-P0149,Product_149,Vitamins,5.52
-P0150,Product_150,Pharmacy,6.2
-P0151,Product_151,Baby,6.67
-P0152,Product_152,Vitamins,24.66
-P0153,Product_153,Vitamins,3.76
-P0154,Product_154,Skincare,16.81
-P0155,Product_155,Vitamins,11.66
-P0156,Product_156,Fragrance,6.22
-P0157,Product_157,Electrical,8.53
-P0158,Product_158,Baby,5.55
-P0159,Product_159,Vitamins,13.35
-P0160,Product_160,Skincare,3.02
-P0161,Product_161,Fragrance,2.06
-P0162,Product_162,Haircare,13.86
-P0163,Product_163,Electrical,4.59
-P0164,Product_164,Electrical,2.88
-P0165,Product_165,Baby,8.07
-P0166,Product_166,Electrical,2.63
-P0167,Product_167,Vitamins,28.12
-P0168,Product_168,Skincare,2.34
-P0169,Product_169,Electrical,12.38
-P0170,Product_170,Electrical,8.93
-P0171,Product_171,Haircare,15.38
-P0172,Product_172,Haircare,6.77
-P0173,Product_173,Pharmacy,4.02
-P0174,Product_174,Fragrance,50.1
-P0175,Product_175,Vitamins,23.91
-P0176,Product_176,Electrical,25.63
-P0177,Product_177,Electrical,5.46
-P0178,Product_178,Skincare,2.48
-P0179,Product_179,Pharmacy,6.34
-P0180,Product_180,Fragrance,11.24
-P0181,Product_181,Pharmacy,6.75
-P0182,Product_182,Baby,23.11
-P0183,Product_183,Fragrance,5.8
-P0184,Product_184,Electrical,42.32
-P0185,Product_185,Electrical,9.33
-P0186,Product_186,Fragrance,24.14
-P0187,Product_187,Electrical,4.59
-P0188,Product_188,Vitamins,8.36
-P0189,Product_189,Fragrance,16.43
-P0190,Product_190,Pharmacy,3.79
-P0191,Product_191,Fragrance,3.71
-P0192,Product_192,Electrical,43.89
-P0193,Product_193,Vitamins,17.05
-P0194,Product_194,Vitamins,2.5
-P0195,Product_195,Baby,8.11
-P0196,Product_196,Pharmacy,8.82
-P0197,Product_197,Haircare,18.35
-P0198,Product_198,Haircare,5.47
-P0199,Product_199,Fragrance,4.44
+P0000,No7 Restore & Renew Face & Neck Serum,Skincare,16.23
+P0001,No7 Protect & Perfect Intense Moisturiser,Skincare,33.51
+P0002,Boots Cucumber Eye Gel,Skincare,26.95
+P0003,Simple Kind to Skin Moisturiser SPF15,Skincare,22.95
+P0004,Neutrogena Hydro Boost Water Gel,Skincare,9.67
+P0005,Olay Regenerist Micro-Sculpting Cream,Skincare,9.67
+P0006,No7 Lift & Luminate Day Cream,Skincare,6.73
+P0007,Cerave Moisturising Cream,Skincare,30.98
+P0008,Boots Tea Tree & Witch Hazel Toner,Skincare,23.02
+P0009,La Roche-Posay Effaclar Purifying Gel,Skincare,26.23
+P0010,Aveeno Daily Moisturising Lotion,Skincare,5.61
+P0011,No7 Beautiful Skin Day Cream Dry Skin,Skincare,34.09
+P0012,Boots Vitamin C Brightening Serum,Skincare,29.96
+P0013,Garnier Micellar Cleansing Water,Skincare,11.36
+P0014,Simple Refreshing Facial Wash Gel,Skincare,10.44
+P0015,Pantene Pro-V Repair & Protect Shampoo,Haircare,4.42
+P0016,Head & Shoulders Classic Clean Shampoo,Haircare,5.68
+P0017,Boots Coconut & Almond Conditioner,Haircare,8.0
+P0018,TRESemmé Keratin Smooth Shampoo,Haircare,7.03
+P0019,Elvive Total Repair 5 Shampoo,Haircare,5.55
+P0020,Aussie Miracle Moist Shampoo,Haircare,8.91
+P0021,Batiste Dry Shampoo Original,Haircare,3.95
+P0022,Boots Argan Oil Hair Mask,Haircare,5.56
+P0023,Herbal Essences Bio:Renew Shampoo,Haircare,6.34
+P0024,Vo5 Nourishing Conditioner,Haircare,7.28
+P0025,Schwarzkopf Gliss Hair Repair Conditioner,Haircare,10.73
+P0026,Tigi Bed Head Urban Antidotes Shampoo,Haircare,4.59
+P0027,OGX Moroccan Argan Oil Shampoo,Haircare,7.89
+P0028,Lee Stafford Bleach Blondes Shampoo,Haircare,8.71
+P0029,Boots Vitamin D 1000IU Tablets,Vitamins,4.73
+P0030,Seven Seas Omega-3 Fish Oil Capsules,Vitamins,13.71
+P0031,Boots Multivitamins & Minerals,Vitamins,6.72
+P0032,Centrum Advance Multivitamin Tablets,Vitamins,5.03
+P0033,Boots Vitamin C 1000mg Effervescent,Vitamins,19.17
+P0034,Holland & Barrett Iron Complex,Vitamins,19.44
+P0035,Boots Folic Acid 400mcg Tablets,Vitamins,16.92
+P0036,Wellwoman Original Vitamins,Vitamins,8.86
+P0037,Boots Biotin Hair Skin Nails,Vitamins,5.55
+P0038,Solgar Magnesium Citrate Tablets,Vitamins,14.94
+P0039,Boots Probiotic Daily Capsules,Vitamins,11.03
+P0040,Berocca Performance Orange Effervescent,Vitamins,5.94
+P0041,Boots Evening Primrose Oil Capsules,Vitamins,11.91
+P0042,Nature's Best Vitamin B12,Vitamins,4.54
+P0043,Paracetamol 500mg Tablets 16s,Pharmacy,9.36
+P0044,Ibuprofen 200mg Tablets 24s,Pharmacy,4.8
+P0045,Boots Hayfever Relief Cetirizine,Pharmacy,7.63
+P0046,Rennie Heartburn Relief Tablets,Pharmacy,5.17
+P0047,Gaviscon Advance Mint Liquid,Pharmacy,6.63
+P0048,Strepsils Honey & Lemon Lozenges,Pharmacy,6.82
+P0049,Sudafed Blocked Nose Capsules,Pharmacy,4.28
+P0050,Boots Antiseptic Cream 30g,Pharmacy,9.78
+P0051,Savlon Antiseptic Wound Wash,Pharmacy,8.42
+P0052,Piriton Allergy Tablets Chlorphenamine,Pharmacy,9.57
+P0053,Boots Cold & Flu Max Strength,Pharmacy,9.25
+P0054,Anadin Extra Aspirin Paracetamol,Pharmacy,7.18
+P0055,Dioralyte Relief Sachets Blackcurrant,Pharmacy,9.44
+P0056,Boots Travel Sickness Tablets,Pharmacy,3.61
+P0057,HUGO BOSS Boss Bottled EDT 50ml,Fragrance,15.07
+P0058,Davidoff Cool Water EDT 40ml,Fragrance,10.39
+P0059,Boots No7 Peachy Rose Body Spray,Fragrance,19.08
+P0060,Impulse True Love Body Spray,Fragrance,21.04
+P0061,Lynx Africa Body Spray 150ml,Fragrance,17.4
+P0062,Sure Women Anti-Perspirant Roll-On,Fragrance,34.68
+P0063,Dove Original Anti-Perspirant Spray,Fragrance,20.05
+P0064,Boots Extracts Rose Body Spray,Fragrance,17.7
+P0065,Radox Feel Restored Shower Gel,Fragrance,25.81
+P0066,Imperial Leather Original Bar Soap,Fragrance,13.36
+P0067,Nivea Men Sensitive Shower Gel,Fragrance,33.86
+P0068,Simple Kind to Skin Shower Gel,Fragrance,11.3
+P0069,Sudocrem Antiseptic Healing Cream 125g,Baby,14.83
+P0070,Johnson's Baby Shampoo 500ml,Baby,12.26
+P0071,Boots Baby Gentle Fragrance Free Wipes,Baby,5.37
+P0072,Huggies Pure Baby Wipes 72s,Baby,3.06
+P0073,Infacol Wind Relief Drops,Baby,12.78
+P0074,Dentinox Cradle Cap Shampoo,Baby,11.47
+P0075,Boots Baby Moisturising Lotion,Baby,11.74
+P0076,Calpol Infant Suspension Paracetamol,Baby,12.25
+P0077,Gripe Water Original Formula,Baby,3.88
+P0078,Bepanthen Nappy Care Ointment,Baby,7.29
+P0079,Boots Baby Bedtime Bath,Baby,4.38
+P0080,Johnson's Baby Bedtime Lotion,Baby,13.35
+P0081,Oral-B Pro 600 CrossAction Electric Toothbrush,Electrical,88.55
+P0082,Philips Sonicare EasyClean Toothbrush,Electrical,56.39
+P0083,Boots Smooth Results Straighteners,Electrical,26.98
+P0084,Remington Keratin Therapy Hair Dryer,Electrical,54.2
+P0085,Braun Series 3 Electric Shaver,Electrical,55.76
+P0086,Boots Pro Curl Wand 25mm,Electrical,100.25
+P0087,Philips Lumea Prestige IPL,Electrical,90.12
+P0088,Boots Nail File & Buffer Set,Electrical,117.58
+P0089,Scholl Velvet Smooth Pedi Electronic Foot File,Electrical,71.93
+P0090,Remington Proluxe Hair Dryer,Electrical,33.15
